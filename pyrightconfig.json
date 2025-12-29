@@ -1,0 +1,9 @@
+{
+    "typeCheckingMode": "standard",
+    "reportMissingTypeStubs": false,
+    "reportUnknownMemberType": false,
+    "reportUnknownVariableType": false,
+    "reportUnknownArgumentType": false,
+    "reportGeneralTypeIssues": true,
+    "useLibraryCodeForTypes": true
+}
